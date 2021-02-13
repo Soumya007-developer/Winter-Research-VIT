@@ -8,7 +8,7 @@ This is a project which aims to build an indoor navigation system for the visual
 
 MOTIVATION
 
-It is clear that even if a person is not completely devoid of sight, a trivial task like walking is a tough one in itself. Moreover, individuals with sight impairments feel helpless and dependent on other people to go around their surroundings. It may well be the case that overly helpful people make them feel inferior and this can easily take a toll on their mental health.
+It is clear that even if a person is not completely devoid of sight, a trivial task like walking is a tough one in itself.Moreover, individuals with sight impairments feel helpless and dependent on other people to go around their surroundings. It may well be the case that overly helpful people make them feel inferior and this can easily take a toll on their mental health.
 
 Another aspect of their lives is keeping or even finding a permanent job. Employers who are willing to take the risk feel they are a liability. Their assumption is based on the fact that a person who couldn’t even steer across his desk, how would he or she do the work assigned to them. This is not only a blow to their self esteem but also a major setback financially
 
@@ -36,15 +36,15 @@ A basic understanding of deep learning concepts like CNN and YOLO models.
 Able to implement models given a basic task like digit or object recognition.
 Implementation of Kalman Filter for object tracking.
 
-Knowledge of basic git to understand the workflow.
+Knowledge of basic git to understand the workflow is essential.
 
-Anyone who has a good knowledge of python, but not computer vision,will also be suitable if gradual learning is done.
-
-
+Anyone who has a good knowledge of python, but not computer vision, will also be suitable if gradual learning is done.
 
 
 
-TECH STACK
+
+
+TECH STACK(To be used): 
   
 Tensorflow and Keras framework for Deep learning.
 Computer Vision for Image processing.
