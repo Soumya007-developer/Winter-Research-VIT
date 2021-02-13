@@ -49,5 +49,7 @@ Anyone who has a good knowledge of python, but not computer vision, will also be
 TECH STACK(To be used): 
   
 Tensorflow and Keras framework for Deep learning.
+
 Computer Vision for Image processing.
+
 Pandas and numpy for data pre processing.
