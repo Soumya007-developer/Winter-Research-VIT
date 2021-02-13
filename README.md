@@ -1,5 +1,5 @@
-# Winter-research-VIT
-An Indoor Navigation System for the visually impaired.
+# Winter-Research-VIT(For Caltech SURF program 2021)
+An Indoor Navigation System for the visually impaired named as NAIVEDH.
 
 
 
