@@ -1,6 +1,8 @@
 # Winter-research-VIT
 An Indoor Navigation System for the visually impaired.
 
+
+
 INTRODUCTION
 
 This is a project which aims to build an indoor navigation system for the visually impaired. Our aim is to make a computer vision model which detects lanes,objects and obstacles in a person's path and provides information for his or her navigation.
